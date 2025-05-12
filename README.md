@@ -5,4 +5,4 @@ Assignment 1: Design Your Own Class! 🏗️<br>
 4. Add an inheritance layer to explore polymorphism or encapsulation.
 <br><br>
 Activity 2: Polymorphism Challenge! 🎭<br>
-Create a program that includes animals or vehicles with the same action (like move()). However, make each class define move() differently (for example, Car.move() prints "Driving" 🚗, while Plane.move() prints "Flying" ✈️).
+Create a program that includes animals or vehicles with the same action (like move()).<br> However, make each class define move() differently (for example, Car.move() prints "Driving" 🚗, while Plane.move() prints "Flying" ✈️).
