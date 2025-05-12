@@ -14,3 +14,13 @@ class Carbohydrate(Food):
 
 meal = Carbohydrate("Maize", "hard", "cereal")
 meal.about()
+
+
+class Rabbit:
+    def move(self):
+        return "Hops."
+class Snake:
+    def move(self):
+        return "Slithers."
+for animal in [Rabbit(), Snake()]:
+    print(animal.move())
